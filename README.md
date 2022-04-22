@@ -1,2 +1,3 @@
 # Ecommerce-Test-Shop
-Small UI Exercise for an ecommerce website
+Small UI Exercises for ecommerce websites
+A different mix of coding projects. Primarily for front end development.
